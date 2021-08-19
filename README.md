@@ -1,7 +1,7 @@
 # Project-Statistics
 Built an easy and simple tool where you provide the name of the project you are looking for and it gives 
 you the list of top 15 related repos sorted in the order of stars and their respective urls
-</br>Visit the website:  https://projectstats.herokuapp.com/
+
 ## Steps to run the tool on your local machine:
 ```
 $ git clone 
